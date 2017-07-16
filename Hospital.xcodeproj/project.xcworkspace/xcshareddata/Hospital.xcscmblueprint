@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E954CBBFDE3E86A8584A7C36BD9C5D767C50E729",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E954CBBFDE3E86A8584A7C36BD9C5D767C50E729" : 9223372036854775807,
+    "C20CEFC634DAA471A5E87E9DC843E3BBC3FBC843" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "522AEA17-FA74-491E-A999-64477AEF0D49",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E954CBBFDE3E86A8584A7C36BD9C5D767C50E729" : "swift-Hospital-lab-swift-intro-000\/",
+    "C20CEFC634DAA471A5E87E9DC843E3BBC3FBC843" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Hospital",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Hospital.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/saroar\/swift-ProtocolDelegate-lab-swift-intro-000.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C20CEFC634DAA471A5E87E9DC843E3BBC3FBC843"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/saroar\/swift-Hospital-lab-swift-intro-000.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E954CBBFDE3E86A8584A7C36BD9C5D767C50E729"
+    }
+  ]
+}
